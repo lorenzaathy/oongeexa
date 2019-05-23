@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iguhaerih.urbanscars.com/sitemap.xml
